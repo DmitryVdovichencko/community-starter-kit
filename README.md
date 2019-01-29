@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+It's an awesome welcome bot created with ❤ and [Probot App](https://probot.github.io/). Just try it for your team for 🆓 free!
 
 ## What it does
 
-FEATURES PLACEHOLDER
+This welcome bot say welcome 🙌 for your new teammates 
 
 ## Getting started
 
