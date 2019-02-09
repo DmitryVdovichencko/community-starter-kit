@@ -35,4 +35,15 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+For the first issue it's gonna be like:
+
+Thanks for new issue! :ghost: :thumbsup: :sparkles: Now, our community will work hard to solve it!  :pray:  :computer:
+
+
+For the first pull request it's gonna be like:
+
+Congrats! You've just created your first pull request : :clap: :sparkles: It's awesome! :100: Now, we check it out, and, if everything is OK  :ok_hand:, we merge it.  If something needs to edit we inform you  :information_desk_person:
+
+If we merge your pull request it's gonna be like:
+
+Your pull request just merged!  :white_check_mark: Everything is fine! :thumbsup: Thanks for contribution!  :clap:
